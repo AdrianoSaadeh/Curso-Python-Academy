@@ -1,0 +1,17 @@
+# Ignorar ambiente virtual
+.venv/
+
+# Ignorar arquivos do sistema
+__pycache__/
+*.py[cod]
+*.so
+.DS_Store
+
+# Arquivos de logs
+*.log
+
+# Arquivos gerados por IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
